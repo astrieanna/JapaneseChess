@@ -48,7 +48,7 @@ for example: #!/home/kimrin/julia-master/julia
 (Before registrate Shogi Engine, comment out Main.jl's "please commented out when registration"
 require command lines, and registrate. After registration, uncommented out these lines.)
 
-A necessary file "fv.bin" in top directory is not belonging our repogitory 
+A necessary file "fv.bin" in top directory is not belonging our repository 
 (Because of different distribution LICENSE).
 
 Please download recent "Bonanza" Shogi program and copy "fv.bin" into this directory.
